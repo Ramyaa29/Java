@@ -1,0 +1,30 @@
+16th July
+  --> Programming - set of rules/instructions
+      Tasks
+  Programming Language 
+   --> Set of rules/instructions to perform a Task
+   --> Languages are built based on Domain.
+
+Difference B/W Java and Python
+
+Java:                                                              Python:
+ --Compiled                                                     -- Interpreted
+ -- Build An Application within 6 months                        -- Build an application within 6 weeks
+ -- Runs Faster                                                 -- Develops Faster
+
+
+ Programming Paradigm:
+    it is a conceptualize and structure the implementation of program.
+
+Types of Languages:
+Imperative Language - How to Do.  Eg:- JAVA, Python.
+Declarative Language -  What to do.  Eg:- SQL.
+
+
+JAVA is a high level,general-purpose, mermory-safe, object oriented, WORA(Write Once and Run AnyWhere), Portable.
+
+
+--> Local Repo - Project in Laptop.
+--> Remote Repo - Project in Github.
+
+Installation of JAVA, VSCODE, GITHUB, Git bash
