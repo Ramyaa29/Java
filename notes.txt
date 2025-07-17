@@ -27,4 +27,27 @@ JAVA is a high level,general-purpose, mermory-safe, object oriented, WORA(Write 
 --> Local Repo - Project in Laptop.
 --> Remote Repo - Project in Github.
 
-Installation of JAVA, VSCODE, GITHUB, Git bash
+Installation of JAVA, VSCODE, GITHUB, Git bash.
+
+
+17th July
+If you want to run a program then class and main method are must.
+Public - access modifier
+static - no object is required to run
+Void- returns nothing
+Main- method name (String[] args)
+
+JDK - JAVA Development Kit
+        In developer Laptops we use JDK.
+        You write Java code using JDK Tools.
+
+JRE - JAVA Runtime Environment.
+        In servers we use JRE.
+        It is used to run programs
+        It is used to compile the programs. (JAVAC).
+
+JVM - Java Virtual Machine.
+        Convert Byte Code to Binary Code.
+        Reads .class file and gives to OS for execution.
+
+
