@@ -50,4 +50,29 @@ JVM - Java Virtual Machine.
         Convert Byte Code to Binary Code.
         Reads .class file and gives to OS for execution.
 
+18th July 
+--> Variable : To store the values
+                - To retrieve the Data
+                - To perform some operations on data.
+                - to store the data.
+--> Datatypes:
+   There are two types:   1. Primitive Datatype      2. Non- primitive datatype.
+
+   -->Primitive : which are pre-built to store numbers, decimal, characters, symbols, true and false.
+                short
+                Int
+                float
+                double
+                char
+                boolean
+
+   -->Non-Primitive : Either we can use already defined by java as:
+                        String
+                        Array
+                        Class
+                        Interface
+                        Enum
+                      Or built your own datatype like Student, Company etc..
+
+        
 
