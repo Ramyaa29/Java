@@ -7,7 +7,7 @@ class Form{
         String Last_Name = "Geesala";
         String First_Name = "Ramya";
         String Middle_Name = "N/A";
-        String Company_Adress = "Hyderabad";
+        String Complete_Address = "Hyderabad";
         String DOB = "01/01/2001";
         String Citizenship = "Indian";
         boolean isIndian = true;
@@ -20,12 +20,12 @@ class Form{
         String Contact_Number_of_spouse = "N/A";
 
         //Father's details
-        String Father_Name = "Daddy";
+        String Father_Name = "Nani";
         String F_Occupation = "XYZ";
         long F_Contact_Number= 000001001;
 
         //Mother's details
-        String Mother_Name = "Mummy";
+        String Mother_Name = "Veni";
         String M_Occupation = "XYZ";
 
         //Guardian's details
@@ -62,7 +62,7 @@ class Form{
         System.out.println("Last Name: " + Last_Name);
         System.out.println("First Name: " + First_Name);
         System.out.println("Middle Name: " + Middle_Name);
-        System.out.println("Company Address: " + Company_Adress);
+        System.out.println("Address: " + Complete_Address);
         System.out.println("Date of Birth: " + DOB);
         System.out.println("Citizenship: " + Citizenship);
         System.out.println("Is Indian: " + isIndian);
