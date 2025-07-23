@@ -51,28 +51,74 @@ JVM - Java Virtual Machine.
         Reads .class file and gives to OS for execution.
 
 18th July 
---> Variable : To store the values
-                - To retrieve the Data
-                - To perform some operations on data.
-                - to store the data.
---> Datatypes:
-   There are two types:   1. Primitive Datatype      2. Non- primitive datatype.
+        --> Variable : To store the values
+                        - To retrieve the Data
+                        - To perform some operations on data.
+                        - to store the data.
+        --> Datatypes:
+        There are two types:   1. Primitive Datatype      2. Non- primitive datatype.
 
-   -->Primitive : which are pre-built to store numbers, decimal, characters, symbols, true and false.
-                short
-                Int
-                float
-                double
-                char
-                boolean
+        -->Primitive : which are pre-built to store numbers, decimal, characters, symbols, true and false.
+                        short
+                        Int
+                        float
+                        double
+                        char
+                        boolean
 
-   -->Non-Primitive : Either we can use already defined by java as:
-                        String
-                        Array
-                        Class
-                        Interface
-                        Enum
-                      Or built your own datatype like Student, Company etc..
+        -->Non-Primitive : Either we can use already defined by java as:
+                                String
+                                Array
+                                Class
+                                Interface
+                                Enum
+                        Or built your own datatype like Student, Company etc..
+
+21st July
+
+        Type Conversion:
+                -> also known as Automatic, implicit, widening
+                ->It is done by java compiler, when conversion is done it is considered as safe.
+                ->No loss of data[safe].
+
+        Type Casting:
+                -> also known as Manual, explicit, narrowing.
+                -> It is done by java developer, when casting is done it is considered as unsafe.
+                -.loss of data[unsafe].
+        
+        Number to Number - Compatible type.
+        Number to String - non Compatible .
+
+        //Int to String
+        String.valueOf(num)
+        Integer.toString(num)
+
+        //String to Int
+        Integer.parseInt()
+        -> It throws an exception called Number format Exception , if we give text as input.
+        -> It allows only number within String.
+        ->It just adds the number.
+
+        // Int to boolean - not possible.
+
+22nd July
+        -> Arithmetic Operators: addition, subtraction, multiplication, division, modulus
+        -> Relational Operators: ==,!=,<,>,<=,>=.
+        -> Logical Operators: &&, ||, !
+        -> Assignment Operators : +=,-=, *=, /=
+        -> Unary operators : ++,--
+        -> Bitwise operators : &,|,^,~,<<,>> 
+23rd July
+        Control Statements:
+        -> In JAVA control statements are used to control the flow of execution of program.
+
+        3 categories:
+        -> Decision Making Statements(Conditional) - if, if-else, else if ladder, switch.
+        -> Looping Statements (Iterative ) - while, do-while, for
+        -> Branching Statements (Jump stmts) - break, continue,return.
+
+
+
 
         
 

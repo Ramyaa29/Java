@@ -5,8 +5,8 @@ class VehicleSpecs{
         String Displacement = "2184 cc";
         String MaxPower = "130bhp@3750rpm";
         String MaxTorque = "300Nm@1600-2800rpm";
-        int NofCylinders = 4;
-        int ValvesPerCylinder = 4;
+        byte NofCylinders = 4;
+        byte ValvesPerCylinder = 4;
         String FuelSupplySystem = "CRDi";
         boolean Turbocharger = true;
         String TransmissionType = "Manual";
