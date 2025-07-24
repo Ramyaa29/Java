@@ -1,8 +1,8 @@
 class Switchcase{
     public static void main(String[] args) {
-        int StudentGradLevel = 10;
+        byte StudentGradLevel = 10;
         int tutionFee = 10000;
-        int discount = 0;
+        byte discount = 0;
         boolean isAcademicTopper = true;
 
         switch (StudentGradLevel){
